@@ -1,3 +1,4 @@
+package ejercicio1;
 
 public class Television extends Electrodomestico {
 	private int resolucion;
